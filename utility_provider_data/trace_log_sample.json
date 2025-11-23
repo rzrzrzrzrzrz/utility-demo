@@ -1,0 +1,36 @@
+{
+  "trace_id": "trc_8812",
+  "timestamp": "2025-11-23T14:35:00Z",
+  "metrics": {
+    "ttfa_latency_ms": 850,
+    "total_tokens": 450,
+    "cost_usd": 0.02
+  },
+  "steps": [
+    {
+      "component": "Gateway",
+      "action": "mTLS_Verification",
+      "status": "Success",
+      "duration_ms": 15
+    },
+    {
+      "component": "FastGate",
+      "action": "PII_Scan",
+      "result": "No Credit Card Detected",
+      "duration_ms": 45
+    },
+    {
+      "component": "Planner",
+      "action": "Intent_Classification",
+      "result": "Billing_Dispute",
+      "duration_ms": 320
+    },
+    {
+      "component": "SlowSupervisor",
+      "action": "Policy_Check",
+      "rule": "Ofgem_SLC_21BA",
+      "intervention": "BLOCK_FULL_RECOVERY",
+      "reasoning": "Debt age > 12 months and Supplier Fault = True"
+    }
+  ]
+}
