@@ -1,0 +1,4 @@
+customer_id,usage_start_date,usage_end_date,amount_due,status,error_type
+CUST-9982,2023-01-01,2023-12-31,1450.00,UNBILLED,Supplier Estimate Error
+CUST-9982,2024-01-01,2024-11-23,1000.00,BILLED,Current Debt
+CUST-1001,2024-09-01,2024-10-01,150.00,PAID,N/A
