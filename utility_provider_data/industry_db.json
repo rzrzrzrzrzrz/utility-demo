@@ -1,0 +1,20 @@
+[
+  {
+    "mpan": "12-345-678-90",
+    "address": "42 Industrial Estate, Unit 1 (Sarah Connor)",
+    "meter_serial_number": "L123456",
+    "status": "Energised"
+  },
+  {
+    "mpan": "12-345-678-91",
+    "address": "42 Industrial Estate, Unit 2 (The Shop)",
+    "meter_serial_number": "X999999",
+    "status": "Energised"
+  },
+  {
+    "mpan": "12-345-678-92",
+    "address": "42 Industrial Estate, Communal Area",
+    "meter_serial_number": "Z888888",
+    "status": "Energised"
+  }
+]

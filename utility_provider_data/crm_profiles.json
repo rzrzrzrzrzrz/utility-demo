@@ -1,0 +1,29 @@
+[
+  {
+    "customer_id": "CUST-9982",
+    "name": "Sarah Connor",
+    "address": "42 Industrial Estate, London, E14 5AB",
+    "flags": {
+      "is_psr_registered": false,
+      "vulnerability_notes": "Customer mentioned husband is on home dialysis machine."
+    }
+  },
+  {
+    "customer_id": "CUST-1001",
+    "name": "John Smith",
+    "address": "1 The Green, Manchester, M1 1AA",
+    "flags": {
+      "is_psr_registered": true,
+      "vulnerability_notes": "Elderly, Priority Services Register (Blind)."
+    }
+  },
+  {
+    "customer_id": "CUST-2002",
+    "name": "Alex Jones",
+    "address": "7 High Street, Birmingham, B2 2BB",
+    "flags": {
+      "is_psr_registered": false,
+      "vulnerability_notes": ""
+    }
+  }
+]
