@@ -1,7 +1,0 @@
-OFGEM STANDARD LICENCE CONDITION 21BA: BACK-BILLING
-1. Prohibition on Back-Billing: If a supplier fails to bill a domestic customer for energy consumed more than 12 months prior to the date the bill is issued, the supplier cannot recover charges for that energy.
-2. Required Remedy: Any charges older than 12 months must be written off (credit applied to account).
-
-OFGEM VULNERABILITY POLICY: PRIORITY SERVICES REGISTER (PSR)
-1. Eligibility: Any customer who uses medical equipment requiring power (e.g., dialysis machine, stair lift) is immediately eligible for the PSR.
-2. Required Action: Any agent detecting medical or severe financial vulnerability must immediately suggest PSR registration and block any disconnection or aggressive collection activity.
